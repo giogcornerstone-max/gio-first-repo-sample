@@ -1,0 +1,14 @@
+1. (git status) to check the status and location if there are new changes or no
+2. The master branch is overall.
+3.  additionals (touch vendors.txt) add notepad notes where touch is adding
+4. New File is on STAGE mode meaning waiting to committed to the GitHub, commit
+5. ls - command is for list of files available 
+6. git add means add this to the next snapshot!
+7. git status -s
+m - modified
+a - new file added to staging
+?? - new file untracked
+
+8. git diff - a.)what changes have i staged
+b.) what changes but haven't stage
+sf

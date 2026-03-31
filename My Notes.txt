@@ -1,8 +1,11 @@
 My Notes:
-git go to cd folder location
-git init
-add README.md (echo "# helloworld" >> README.md)
-add the files from pc to GitHub (git add .)
-add a remote git if already existing make another
-then push it (git push -u origin master)
+1. git go to cd folder location
+2. git init
+3. add README.md (echo "# helloworld" >> README.md)
+4. add the files from pc to GitHub (git add .)
+5. commit first meaning the version of what your doing (git commit -m "first commit or second commit")
+6. add a remote git if already existing make another, linking 2 locations (git remote add origin https://github.com/giogcornerstone-max/gio-first-repo-sample.git)
+7. then push it (git push -u origin master)
 then sometimes you need to log in
+
+PUSHME FOR SECOND!

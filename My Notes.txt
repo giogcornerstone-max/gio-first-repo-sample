@@ -1,0 +1,8 @@
+My Notes:
+git go to cd folder location
+git init
+add README.md (echo "# helloworld" >> README.md)
+add the files from pc to GitHub (git add .)
+add a remote git if already existing make another
+then push it (git push -u origin master)
+then sometimes you need to log in
